@@ -2,7 +2,7 @@
 
 DynamoDB - CRUD Implementations for academic project.
 
-DynamoDB - Ecommerce is an application which is developed for the DBSI Course in my Masters Program at Rochester Institute of Technology.
+DynamoDB - Ecommerce is an application which is developed for the Database System Implementation Course in my Masters Program at Rochester Institute of Technology.
 
 It is an ecommerce application developed in java using AWS - SDK for Java. I had implemented it to test all the working of the CRUD Operations of the DynamoDB with the use of the Java Code.
 
